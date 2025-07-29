@@ -8,7 +8,6 @@ This is a simple React-based Student Dashboard built for an Online EdTech Portal
 - React Router v6
 - Tailwind CSS + daisyUI
 - Axios (simulated API)
-- Socket.io (optional chat feature if integrated)
 
 ---
 
